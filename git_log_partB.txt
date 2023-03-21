@@ -1,0 +1,93 @@
+commit ab90d773d369a86863d9b11741a5a5db85740d3c
+Author: Gurpreet Singh <gspahwaa@gmail.com>
+Date:   Tue Mar 21 13:09:18 2023 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..798f7c4
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++Expected graduation year 2025 and Software engineer
+
+commit 8ba088ec78206a8fd63551f16b0873951adb22bb
+Author: Gurpreet Singh <gspahwaa@gmail.com>
+Date:   Tue Mar 21 13:05:51 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 8f9099d..50e73c7 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,3 +1,4 @@
+ Gurpreet Singh Computer science and engineering
+ KFC is my fav restaurant
+ Avengers is my fav movie 
++My fav color is Red 
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 798f7c4..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-Expected graduation year 2025 and Software engineer
+
+commit 2ec7a2c1bde9e5be87098ee15c2302c136883ed2
+Author: Gurpreet Singh <gspahwaa@gmail.com>
+Date:   Tue Mar 21 13:00:50 2023 +0530
+
+    My details
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..798f7c4
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++Expected graduation year 2025 and Software engineer
+
+commit 118a181000e9f9c869221e7feb46ee0096f04047
+Author: Gurpreet Singh <gspahwaa@gmail.com>
+Date:   Tue Mar 21 12:51:53 2023 +0530
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 9429d0c..8f9099d 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,3 @@
+ Gurpreet Singh Computer science and engineering
++KFC is my fav restaurant
++Avengers is my fav movie 
+
+commit 55b75c2e57b1b92ba7b5b8e77ed393020d7c6c46
+Author: Gurpreet Singh <gspahwaa@gmail.com>
+Date:   Tue Mar 21 12:49:43 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index b45180b..9429d0c 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Gurpreet Singh 27383
++Gurpreet Singh Computer science and engineering
+
+commit eadbc8c8c5d9f61fce80814841e44da8dfc98924
+Author: Gurpreet Singh <gspahwaa@gmail.com>
+Date:   Tue Mar 21 12:45:22 2023 +0530
+
+    Commiting a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..b45180b
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Gurpreet Singh 27383
